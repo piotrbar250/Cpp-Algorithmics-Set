@@ -1,0 +1,2 @@
+# Cpp-Algorithmics-Set
+My collection of algorithmic problems that I solved while preparing for the Polish Olympiad in Informatics in high school. I used a vast number of algorithms, including segment trees, find & union, lowest common ancestor (LCA), Dijkstra's algorithm, dynamic programming (DP), bitmask DP, hashing, Knuth-Morris-Pratt (KMP), minimum spanning tree (MST), strongly connected components (SCC), and topological sorting.
